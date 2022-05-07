@@ -68,6 +68,7 @@ Can be veiwed from given [link](https://docs.google.com/document/d/1FNoCyNTeCOwk
 
 ## Team members
 -------------------------------------------------
-Shreya Sachan (B20EE065)
 
 Aditi Tiwari (B20EE005)
+
+Shreya Sachan (B20EE065)
