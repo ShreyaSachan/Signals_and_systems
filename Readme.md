@@ -64,7 +64,7 @@ matplotlib --> For visualizing output through plots.
 ## Result and Conclusion
 -------------------------------------------------
 Can be veiwed from given [link](https://docs.google.com/document/d/1FNoCyNTeCOwkKxSuyrCozl6FUmC1Eaz1QbYqLb2Opig/edit?usp=sharing).
-![comparing plot](PA.png)
+![comparing plot](final_plot.png)
 
 ## Team members
 -------------------------------------------------
